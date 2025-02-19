@@ -92,6 +92,7 @@ import { lightlink } from './lightlink'
 import { linea } from './linea'
 import { lisk } from './lisk'
 import { loopring } from './loopring'
+import { lootchain } from './lootchain'
 import { lumia } from './lumia'
 import { lyra } from './lyra'
 import { mantapacific } from './mantapacific'
@@ -294,6 +295,7 @@ export const layer2s: Layer2[] = [
   linea,
   lisk,
   loopring,
+  lootchain,
   lumia,
   lyra,
   race,
